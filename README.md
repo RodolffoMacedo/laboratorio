@@ -7,15 +7,10 @@ Projeto desenvolvido na PYSTACK WEEK<br/>
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="projeto Laboratorio" .lobo.jpg width="100%">
-</p>
 
 ## 🚀 Tecnologias
 
@@ -34,6 +29,6 @@ O projeto Laboratório tem a finalidade de servir como centro de administração
 Com área de cadastro de clientes, cadastro de exames, cadastro para médicos e administradores da clinica.
 Geração de resultados em pdf com vizualização prévia e possibilidade para anexar caso precise, onde cada acesso é unico para o usuário cadastrado.
 
-- [Acesse o projeto finalizado, online]()
+
 
 
