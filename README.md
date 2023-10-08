@@ -14,7 +14,7 @@ Projeto desenvolvido na PYSTACK WEEK<br/>
 <br>
 
 <p align="center">
-  <img alt="projeto Laboratorio" width="100%">
+  <img alt="projeto Laboratorio" .lobo.jpg width="100%">
 </p>
 
 ## 🚀 Tecnologias
