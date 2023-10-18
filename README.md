@@ -29,6 +29,7 @@ O projeto Laboratório tem a finalidade de servir como centro de administração
 Com área de cadastro de clientes, cadastro de exames, cadastro para médicos e administradores da clinica.
 Geração de resultados em pdf com vizualização prévia e possibilidade para anexar caso precise, onde cada acesso é unico para o usuário cadastrado.
 
+![image](https://github.com/RodolffoMacedo/laboratorio/assets/146378931/8c7cd0e2-7403-4b92-abe9-2e2c654c5765)
 
 
 
